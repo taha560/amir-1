@@ -458,16 +458,16 @@ NOD32 Commands list :
 !share
 دریافت شماره ربات
 
-!joinnod32
+!join 103661224
 وصل شدن به ساپورت
 
 you can use both "/" and "!" 
 شما میتوانید از ! و / استفاده کنید
 
-Developer: @behroozYaghi
+Developer: @RM13790115
 توسعه دهنده
 
-channel: @nod32team
+channel: @AVENGERRSS
 کانال ما
 
 G00D LUCK ^_^
