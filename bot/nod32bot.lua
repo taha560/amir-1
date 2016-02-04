@@ -222,14 +222,17 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
-    "all",
     "leave_ban",
     "admin",
     "antilink",
     "antitag",
     "linkpv",
     "share",
-    "boobs",
+    "poker",
+    "tagall",
+    "all",
+    "sticker_lock",
+    "music",
     "block",
     "time",
     "location",
@@ -238,7 +241,7 @@ function create_config( )
     "left",
     "support",
     },
-    sudo_users = {158990680},--Sudo users
+    sudo_users = {139534999},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
