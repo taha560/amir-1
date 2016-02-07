@@ -216,6 +216,11 @@ function create_config( )
     "stats",
     "anti_spam",
     "owners",
+    "feedback",
+    "calc",
+    "joke",
+    "sms",
+    "servise",
     "arabic_lock",
     "set",
     "get",
@@ -245,7 +250,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/yaghibot.git
+https://github.com/m13790115/eset.git
 ]],
     help_text_realm = [[
 Realm Commands:
