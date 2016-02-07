@@ -8,9 +8,9 @@ return {
   usage = "!joinsu : Return persian supports link",
   patterns = {
     "^joinsu$",
-    "^/joinnod32$",
-    "^!joinnod32$",
-    "^>joinnod32$",
+    "^/joinsu$",
+    "^!joinsu$",
+    "^>joinsu$",
   },
   run = run
 }
