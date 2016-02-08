@@ -237,7 +237,6 @@ function create_config( )
     "poker",
     "tagall",
     "all",
-    "sticker_lock",
     "music",
     "block",
     "time",
