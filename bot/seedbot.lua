@@ -235,6 +235,8 @@ function create_config( )
     "linkpv",
     "share",
     "poker",
+    'add_plug",
+    "lock_english",
     "tagall",
     "all",
     "music",
