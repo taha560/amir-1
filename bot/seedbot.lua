@@ -242,7 +242,6 @@ function create_config( )
     "time",
     "webshot",
     "spam",
-    "filter",
     "location",
     "fosh",
     "google",
