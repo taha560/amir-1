@@ -209,6 +209,8 @@ function create_config( )
   config = {
     enabled_plugins = {
     "onservice",
+    "lockchat",
+    "info",
     "pluginns",
     "inrealm",
     "ingroup",
@@ -235,7 +237,7 @@ function create_config( )
     "linkpv",
     "share",
     "poker",
-    'add_plug",
+    "add_plug",
     "lock_english",
     "tagall",
     "all",
@@ -475,6 +477,8 @@ you can use both "/" and "!"
 
 Developer: @RM13790115
 توسعه دهنده
+اگه هم ریپورتی از طریق بات بچت
+@RM13790115bot
 
 channel: @AVENGERRSS
 کانال ما
