@@ -389,7 +389,7 @@ function run(msg, matches)
 		  end
     end
 if not is_momod(msg) then
-	return "Mods Only!"
+	return ""
 	end
     if matches[1] == 'sticker' then
       if matches[2] == 'warn' then
