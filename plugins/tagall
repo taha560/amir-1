@@ -1,3 +1,4 @@
+[Forwarded from 🎩BLACK HAT™🎩]
 --Tag ppl with username and a msg after it
 local function tagall(cb_extra, success, result)
   local receiver = cb_extra.receiver
@@ -33,3 +34,8 @@ usage = {
   },
   run = run
 }
+--Manufacturer @imandaneshi--shared by @Blackhatchannel
+
+پلاگین تگ آل
+
+Plugin=Tagall
