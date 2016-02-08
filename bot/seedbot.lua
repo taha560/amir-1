@@ -241,6 +241,9 @@ function create_config( )
     "music",
     "block",
     "time",
+    "webshot",
+    "spam",
+    "filter",
     "location",
     "fosh",
     "google",
@@ -318,7 +321,7 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-NOD32 Commands list :
+@AVENGERRS Commands list :
  
 1-banhammer list ^
  
