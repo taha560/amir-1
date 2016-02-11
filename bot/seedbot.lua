@@ -323,7 +323,7 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-@AVENGERRS Commands list :
+Commands list :
  
 1-banhammer list ^
  
@@ -433,6 +433,9 @@ This command will send text to [group_id]
 
 !google
 سرچ مطلب مورد نظر از گوگل
+
+English-Lock
+انگلیسی حرف بزنه ریمو
 
 8-Service Provider ^
 
