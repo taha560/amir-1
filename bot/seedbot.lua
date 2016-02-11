@@ -252,7 +252,7 @@ function create_config( )
     "left",
     "support",
     },
-    sudo_users = {144152859},--Sudo users
+    sudo_users = {192195687},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -469,18 +469,17 @@ This command will send text to [group_id]
 !share
 دریافت شماره ربات
 
-!join 103661224
+!join 
 وصل شدن به ساپورت
 
 you can use both "/" and "!" 
 شما میتوانید از ! و / استفاده کنید
 
-Developer: @amirmr33
+Developer: @kingbot4
 توسعه دهنده
-اگه هم ریپورتی از طریق بات بچت
-@amirmr33bot
+
 برای ادمین شدنم پیوی بات یا ادمین بیاین
-channel: @superbot_new
+channel: @kingantispam
 کانال ما
 در کانال ما گروه رایگان قرار داده میشود
 G00D LUCK ^_^
